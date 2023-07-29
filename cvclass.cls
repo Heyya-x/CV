@@ -39,7 +39,7 @@
 			{\vspace{-10pt}\scshape\raggedright\Large}
 			{}{0em}
 			{}
-			[\color{black}\titlerule \vspace{-6pt}]
+			[\color{black}\titlerule\vspace{-6pt}]
 
 
 %--------------------
